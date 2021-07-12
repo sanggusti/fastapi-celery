@@ -1,4 +1,5 @@
 # FastAPI Celery Test
+Handling Asynchronous task with FastAPI and Celery
 
 -[x] Integrate Celery into a FastAPI app and create tasks.
 -[x] Containerize FastAPI, Celery, and Redis with Docker.
