@@ -1,0 +1,4 @@
+[2021-07-12 07:46:15,457: INFO/MainProcess] Connected to redis://redis:6379/0
+[2021-07-12 07:46:15,464: INFO/MainProcess] mingle: searching for neighbors
+[2021-07-12 07:46:16,483: INFO/MainProcess] mingle: all alone
+[2021-07-12 07:46:16,497: INFO/MainProcess] celery@4d26bf727c2b ready.
