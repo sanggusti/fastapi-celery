@@ -1,12 +1,12 @@
 # FastAPI Celery Test
 Handling Asynchronous task with FastAPI and Celery
 
--[x] Integrate Celery into a FastAPI app and create tasks.
--[x] Containerize FastAPI, Celery, and Redis with Docker.
--[x] Run processes in the background with a separate worker process.
--[x] Save Celery logs to a file.
--[x] Set up Flower to monitor and administer Celery jobs and workers.
--[x] Test a Celery task with both unit and integration tests.
+- [x] Integrate Celery into a FastAPI app and create tasks.
+- [x] Containerize FastAPI, Celery, and Redis with Docker.
+- [x] Run processes in the background with a separate worker process.
+- [x] Save Celery logs to a file.
+- [x] Set up Flower to monitor and administer Celery jobs and workers.
+- [x] Test a Celery task with both unit and integration tests.
 
 ## Run the project
 ```
